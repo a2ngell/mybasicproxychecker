@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\bin\Debug\Cheeky.exe.config
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\bin\Debug\Cheeky.exe
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\bin\Debug\Cheeky.pdb
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\obj\Debug\Cheeky.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\obj\Debug\Cheeky.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\obj\Debug\Cheeky.exe
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\obj\Debug\Cheeky.pdb
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\bin\Debug\Leaf.xNet.dll
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\bin\Debug\Leaf.xNet.xml
+C:\Users\user\Desktop\Proxy-Checker-master\Cheeky\obj\Debug\Cheeky.csproj.Up2Date
